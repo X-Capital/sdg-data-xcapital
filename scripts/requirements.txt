@@ -1,2 +1,6 @@
+pyyaml
+pandas
+gitpython
+ruamel.yaml>=0.15
 git+https://github.com/dougmet/yamlmd
-git+https://github.com/open-sdg/sdg-build@1.0.3
+git+https://github.com/open-sdg/sdg-build@0.0.3
