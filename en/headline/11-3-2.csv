@@ -1,6 +1,6 @@
-Year,Value
-2014/2015,100
-2015/2016,100
-2016/2017,90
-2017/2018,100
-2018/2019,100
+Year,Value,Units
+2014/2015,100,Percentage
+2015/2016,100,Percentage
+2016/2017,90,Percentage
+2017/2018,100,Percentage
+2018/2019,100,Percentage
